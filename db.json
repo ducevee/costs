@@ -1,0 +1,92 @@
+{
+  "projects": [
+    {
+      "name": "Wazuh",
+      "budget": "100000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 47000,
+      "services": [
+        {
+          "name": "Contratar Dev Front Sênior",
+          "cost": "8000",
+          "description": "Liderar e desenvolver a parte web do projeto.",
+          "id": "9f01f842-6d9a-4179-adf8-1ede9c62e548"
+        },
+        {
+          "name": "Contratar Dev Front Junior",
+          "cost": "3000",
+          "description": "Ajudar a desenvolver e dar suporte ao Dev Sênior na parte Web",
+          "id": "a5002cc1-bb57-4c6b-b436-0a118ffc0d6d"
+        },
+        {
+          "name": "Contratar Dev Back",
+          "cost": "10000",
+          "description": "Desenvolver API's para módulos do projeto.",
+          "id": "76e7f32f-a335-4a1b-ac6d-9cf4b505cbc3"
+        },
+        {
+          "name": "Contratar Dev Back Junior ",
+          "cost": "4000",
+          "description": "Dar suporte ao desenvolvimento das API's do projeto",
+          "id": "0669d270-3db4-46d3-a8d0-71b41a25f7ff"
+        },
+        {
+          "name": "Contratar Dev Back 2 ",
+          "cost": "10000",
+          "description": "Contratar dev para desenvolvimento das API's do projeto",
+          "id": "c8a0c218-ea09-46d8-b310-cf04f278cf9e"
+        },
+        {
+          "name": "Contratar DevSecOps",
+          "cost": "12000",
+          "description": "Desenvolver a parte da segurança do projeto, junto com o desenvolvimento de outras funções",
+          "id": "6e9e3e81-ed29-4d78-9968-88bdcb43eb01"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Automatização de Planilhas",
+      "budget": "100",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Automatizar Relatórios",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
